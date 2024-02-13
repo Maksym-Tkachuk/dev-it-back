@@ -1,0 +1,17 @@
+# WorkSace
+node_modules
+build
+
+# IDE files
+.idea
+.vscode
+
+# Env
+.env
+
+# Cache
+tsconfig.tsbuildinfo
+.eslintcache
+
+# Packege manager
+yarn-error.log
